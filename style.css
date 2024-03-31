@@ -36,3 +36,17 @@ img{
     height: 20vw;
     width: 20vw;
   }
+  .rounded-3 {
+    border-radius: 4px;
+  }
+.rounded-4 {
+  border-radius: 12px;
+}
+.feature {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  width: 3rem;
+  font-size: 1.5rem;
+}
